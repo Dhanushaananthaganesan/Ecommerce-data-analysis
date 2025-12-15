@@ -15,8 +15,8 @@ Tools & Technologies
 
 
 Dataset
-- `orders.csv` – Order-level transaction data
-- `products.csv` – Product details and pricing
+- orders.csv – Order-level transaction data
+- products.csv – Product details and pricing
 
 SQL Analysis
 SQL queries include:
@@ -26,9 +26,6 @@ SQL queries include:
 - Category-wise revenue
 - Aggregate metrics (SUM, AVG, COUNT)
 
-All queries are available in:
-`sql/ecommerce.sql`
-
 Power BI Dashboard
 Key insights:
 - Total Orders, Revenue & Items Sold
@@ -37,11 +34,7 @@ Key insights:
 - Revenue by City
 - Quarterly Order Trends
 
-Dashboard preview available in:
- `dashboard/ecommerce powerbi dashboard.pdf`
-
-
-## 🔗 Data Pipeline
+Data pipeline
 Excel → MySQL → Power BI (via ODBC)
 
 
