@@ -39,7 +39,6 @@ Excel → MySQL → Power BI (via ODBC)
 
 
 Key Learnings
-- Data normalization & relational modeling
 - SQL joins and aggregations
 - Connecting MySQL to Power BI using ODBC
 - Building interactive dashboards
